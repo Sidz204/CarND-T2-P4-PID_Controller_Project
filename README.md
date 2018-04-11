@@ -4,8 +4,7 @@
 In this project, I have implemented a PID controller in C++ to maneuver the vehicle around the track in a simulator. PID stands for Proportional Integral Derivative. The main aim was to calculate steering angle using this controller but I have also implemented this for calculating the throttle. 
 
 ### Results: 
-Here is the record of the video of the car driving around the track in simulator :
-
+Here is the record of the video of the car driving around the track in simulator : [here](https://youtu.be/3u4b6mSSXFQ)
 
 ### Reflection:
 
